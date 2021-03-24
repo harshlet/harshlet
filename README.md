@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshlet
+- 👋 Hi, I’m Harsh
 - 👀 I’m interested in full stack web development & Flutter Mobile Development
 - 🌱 I’m currently learning django,react.js,flutter
 - 💞️ I’m looking to collaborate on Useful projects that help towords nature
