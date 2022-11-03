@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh
-- 👀 I’m interested in full stack web development & Flutter Mobile Development
-- 🌱 I’m currently learning django,react.js,flutter
+- 👀 I’m Mobile App Developer In Flutter
+- 🌱 I’m Learner
 - 💞️ I’m looking to collaborate on Useful projects that help towords nature
 - 📫 If you Want to Contact Then just Mail me on "prajapatiharsh351@gmail.com"
 
